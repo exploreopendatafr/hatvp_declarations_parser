@@ -1,0 +1,90 @@
+{
+    "M. ABAD DAMIEN": {
+        "participationFinanciereDto": {
+            "0_[Donn\u00e9es non publi\u00e9es]": [
+                {
+                    "nomSociete": "ORANGE",
+                    "capitalDetenu": null,
+                    "remuneration": "n\u00e9ant",
+                    "evaluation": "877"
+                }
+            ],
+            "1_[Donn\u00e9es non publi\u00e9es]": [
+                {
+                    "nomSociete": "CREDIT AGRICOLE SA",
+                    "capitalDetenu": null,
+                    "remuneration": "n\u00e9ant",
+                    "evaluation": "2910"
+                }
+            ],
+            "2_[Donn\u00e9es non publi\u00e9es]": [
+                {
+                    "nomSociete": "AIRBUS",
+                    "capitalDetenu": null,
+                    "remuneration": "NEANT",
+                    "evaluation": "1929"
+                }
+            ],
+            "3_[Donn\u00e9es non publi\u00e9es]": [
+                {
+                    "nomSociete": "L'OREAL",
+                    "capitalDetenu": null,
+                    "remuneration": "NEANT",
+                    "evaluation": "6552"
+                }
+            ]
+        }
+    },
+    "Mme ABADIE Caroline": {
+        "participationFinanciereDto": {
+            "0_None": [
+                {
+                    "nomSociete": "SCI \n        [Donn\u00e9es non publi\u00e9es]",
+                    "capitalDetenu": "50",
+                    "remuneration": "0",
+                    "evaluation": "296100"
+                }
+            ],
+            "1_None": [
+                {
+                    "nomSociete": "DGDC",
+                    "capitalDetenu": "100",
+                    "remuneration": "0",
+                    "evaluation": "3000"
+                }
+            ]
+        }
+    },
+    "Mme Abaux Brigitte": {
+        "participationFinanciereDto": {
+            "0_None": [
+                {
+                    "nomSociete": "neant",
+                    "capitalDetenu": "0",
+                    "remuneration": "0",
+                    "evaluation": "0"
+                }
+            ]
+        }
+    },
+    "M. ABBAS G\u00e9rard": {
+        "participationFinanciereDto": {
+            "0_None": [
+                {
+                    "nomSociete": "Cr\u00e9dit Agricole SA",
+                    "capitalDetenu": null,
+                    "remuneration": "151 en 2021",
+                    "evaluation": "3190"
+                }
+            ],
+            "1_None": [
+                {
+                    "nomSociete": "EDF",
+                    "capitalDetenu": "0",
+                    "remuneration": "21 en 2021",
+                    "evaluation": "1658"
+                }
+            ]
+        }
+    }
+}
